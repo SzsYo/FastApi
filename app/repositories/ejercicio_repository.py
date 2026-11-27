@@ -1,4 +1,4 @@
-"""Capa Repositories (Ejercicio 6): acceso a datos de la tabla `vehiculos`."""
+"""Capa Repositories: acceso a datos de la tabla `vehiculos`."""
 from typing import Optional
 
 from sqlalchemy import func
